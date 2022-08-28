@@ -3,7 +3,7 @@
     <div class="mobile-menu md:hidden">
         <div class="mobile-menu-bar">
             <a href="" class="flex mr-auto">
-                <img alt="Rubick Tailwind HTML Admin Template" class="w-6" src="dist/images/logo.svg">
+                <img alt="Rubick Tailwind HTML Admin Template" class="w-6" src="/assets/images/logo.svg">
             </a>
             <a href="javascript:;" id="mobile-menu-toggler"> <i data-feather="bar-chart-2" class="w-8 h-8 text-white transform -rotate-90"></i> </a>
         </div>
@@ -512,7 +512,7 @@
         <div class="top-bar-boxed flex items-center">
             <!-- BEGIN: Logo -->
             <a href="" class="-intro-x hidden md:flex">
-                <img alt="Rubick Tailwind HTML Admin Template" class="w-6" src="dist/images/logo.svg">
+                <img alt="Rubick Tailwind HTML Admin Template" class="w-6" src="/assets/images/logo.svg">
                 <span class="text-white text-lg ml-3"> Ru<span class="font-medium">bick</span> </span>
             </a>
             <!-- END: Logo -->
@@ -547,28 +547,28 @@
                         <div class="mb-5">
                             <a href="" class="flex items-center mt-2">
                                 <div class="w-8 h-8 image-fit">
-                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/profile-2.jpg">
+                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/profile-2.jpg">
                                 </div>
                                 <div class="ml-3">Al Pacino</div>
                                 <div class="ml-auto w-48 truncate text-gray-600 text-xs text-right">alpacino@left4code.com</div>
                             </a>
                             <a href="" class="flex items-center mt-2">
                                 <div class="w-8 h-8 image-fit">
-                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/profile-13.jpg">
+                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/profile-13.jpg">
                                 </div>
                                 <div class="ml-3">Leonardo DiCaprio</div>
                                 <div class="ml-auto w-48 truncate text-gray-600 text-xs text-right">leonardodicaprio@left4code.com</div>
                             </a>
                             <a href="" class="flex items-center mt-2">
                                 <div class="w-8 h-8 image-fit">
-                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/profile-15.jpg">
+                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/profile-15.jpg">
                                 </div>
                                 <div class="ml-3">Al Pacino</div>
                                 <div class="ml-auto w-48 truncate text-gray-600 text-xs text-right">alpacino@left4code.com</div>
                             </a>
                             <a href="" class="flex items-center mt-2">
                                 <div class="w-8 h-8 image-fit">
-                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/profile-1.jpg">
+                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/profile-1.jpg">
                                 </div>
                                 <div class="ml-3">Russell Crowe</div>
                                 <div class="ml-auto w-48 truncate text-gray-600 text-xs text-right">russellcrowe@left4code.com</div>
@@ -577,28 +577,28 @@
                         <div class="search-result__content__title">Products</div>
                         <a href="" class="flex items-center mt-2">
                             <div class="w-8 h-8 image-fit">
-                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/preview-9.jpg">
+                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/preview-9.jpg">
                             </div>
                             <div class="ml-3">Oppo Find X2 Pro</div>
                             <div class="ml-auto w-48 truncate text-gray-600 text-xs text-right">Smartphone &amp; Tablet</div>
                         </a>
                         <a href="" class="flex items-center mt-2">
                             <div class="w-8 h-8 image-fit">
-                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/preview-10.jpg">
+                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/preview-10.jpg">
                             </div>
                             <div class="ml-3">Oppo Find X2 Pro</div>
                             <div class="ml-auto w-48 truncate text-gray-600 text-xs text-right">Smartphone &amp; Tablet</div>
                         </a>
                         <a href="" class="flex items-center mt-2">
                             <div class="w-8 h-8 image-fit">
-                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/preview-4.jpg">
+                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/preview-4.jpg">
                             </div>
                             <div class="ml-3">Nike Tanjun</div>
                             <div class="ml-auto w-48 truncate text-gray-600 text-xs text-right">Sport &amp; Outdoor</div>
                         </a>
                         <a href="" class="flex items-center mt-2">
                             <div class="w-8 h-8 image-fit">
-                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/preview-8.jpg">
+                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/preview-8.jpg">
                             </div>
                             <div class="ml-3">Sony A7 III</div>
                             <div class="ml-auto w-48 truncate text-gray-600 text-xs text-right">Photography</div>
@@ -615,7 +615,7 @@
                         <div class="notification-content__title">Notifications</div>
                         <div class="cursor-pointer relative flex items-center ">
                             <div class="w-12 h-12 flex-none image-fit mr-1">
-                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/profile-2.jpg">
+                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/profile-2.jpg">
                                 <div class="w-3 h-3 bg-theme-9 absolute right-0 bottom-0 rounded-full border-2 border-white"></div>
                             </div>
                             <div class="ml-2 overflow-hidden">
@@ -628,7 +628,7 @@
                         </div>
                         <div class="cursor-pointer relative flex items-center mt-5">
                             <div class="w-12 h-12 flex-none image-fit mr-1">
-                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/profile-13.jpg">
+                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/profile-13.jpg">
                                 <div class="w-3 h-3 bg-theme-9 absolute right-0 bottom-0 rounded-full border-2 border-white"></div>
                             </div>
                             <div class="ml-2 overflow-hidden">
@@ -641,7 +641,7 @@
                         </div>
                         <div class="cursor-pointer relative flex items-center mt-5">
                             <div class="w-12 h-12 flex-none image-fit mr-1">
-                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/profile-15.jpg">
+                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/profile-15.jpg">
                                 <div class="w-3 h-3 bg-theme-9 absolute right-0 bottom-0 rounded-full border-2 border-white"></div>
                             </div>
                             <div class="ml-2 overflow-hidden">
@@ -654,7 +654,7 @@
                         </div>
                         <div class="cursor-pointer relative flex items-center mt-5">
                             <div class="w-12 h-12 flex-none image-fit mr-1">
-                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/profile-1.jpg">
+                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/profile-1.jpg">
                                 <div class="w-3 h-3 bg-theme-9 absolute right-0 bottom-0 rounded-full border-2 border-white"></div>
                             </div>
                             <div class="ml-2 overflow-hidden">
@@ -667,7 +667,7 @@
                         </div>
                         <div class="cursor-pointer relative flex items-center mt-5">
                             <div class="w-12 h-12 flex-none image-fit mr-1">
-                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="dist/images/profile-14.jpg">
+                                <img alt="Rubick Tailwind HTML Admin Template" class="rounded-full" src="/assets/images/profile-14.jpg">
                                 <div class="w-3 h-3 bg-theme-9 absolute right-0 bottom-0 rounded-full border-2 border-white"></div>
                             </div>
                             <div class="ml-2 overflow-hidden">
@@ -685,7 +685,7 @@
             <!-- BEGIN: Account Menu -->
             <div class="intro-x dropdown w-8 h-8">
                 <div class="dropdown-toggle w-8 h-8 rounded-full overflow-hidden shadow-lg image-fit zoom-in scale-110" role="button" aria-expanded="false">
-                    <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-4.jpg">
+                    <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-4.jpg">
                 </div>
                 <div class="dropdown-menu w-56">
                     <div class="dropdown-menu__content box bg-theme-26 dark:bg-dark-6 text-white">
@@ -1403,7 +1403,7 @@
                         </div>
                         <div class="intro-y box p-5 mt-12 sm:mt-5">
                             <div>250 Official stores in 21 countries, click the marker to see location details.</div>
-                            <div class="report-maps mt-5 bg-gray-200 rounded-md" data-center="-6.2425342, 106.8626478" data-sources="/dist/json/location.json"></div>
+                            <div class="report-maps mt-5 bg-gray-200 rounded-md" data-center="-6.2425342, 106.8626478" data-sources="//assets/json/location.json"></div>
                         </div>
                     </div>
                     <!-- END: Official Store -->
@@ -1418,7 +1418,7 @@
                             <div class="intro-y">
                                 <div class="box px-4 py-4 mb-3 flex items-center zoom-in">
                                     <div class="w-10 h-10 flex-none image-fit rounded-md overflow-hidden">
-                                        <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-6.jpg">
+                                        <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-6.jpg">
                                     </div>
                                     <div class="ml-4 mr-auto">
                                         <div class="font-medium">Christian Bale</div>
@@ -1430,7 +1430,7 @@
                             <div class="intro-y">
                                 <div class="box px-4 py-4 mb-3 flex items-center zoom-in">
                                     <div class="w-10 h-10 flex-none image-fit rounded-md overflow-hidden">
-                                        <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-7.jpg">
+                                        <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-7.jpg">
                                     </div>
                                     <div class="ml-4 mr-auto">
                                         <div class="font-medium">Russell Crowe</div>
@@ -1442,7 +1442,7 @@
                             <div class="intro-y">
                                 <div class="box px-4 py-4 mb-3 flex items-center zoom-in">
                                     <div class="w-10 h-10 flex-none image-fit rounded-md overflow-hidden">
-                                        <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-11.jpg">
+                                        <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-11.jpg">
                                     </div>
                                     <div class="ml-4 mr-auto">
                                         <div class="font-medium">Arnold Schwarzenegger</div>
@@ -1454,7 +1454,7 @@
                             <div class="intro-y">
                                 <div class="box px-4 py-4 mb-3 flex items-center zoom-in">
                                     <div class="w-10 h-10 flex-none image-fit rounded-md overflow-hidden">
-                                        <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-3.jpg">
+                                        <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-3.jpg">
                                     </div>
                                     <div class="ml-4 mr-auto">
                                         <div class="font-medium">Arnold Schwarzenegger</div>
@@ -1473,7 +1473,7 @@
                             <div class="ads-box__title w-full sm:w-72 text-white text-xl -mt-3">Transact safely with Lender’s Fund Account (RDL)</div>
                             <div class="w-full sm:w-72 leading-relaxed text-white text-opacity-70 dark:text-gray-600 dark:text-opacity-100 mt-3">Apply now, quick registration</div>
                             <button class="btn w-32 bg-white dark:bg-dark-2 dark:text-white mt-6 sm:mt-10">Start Now</button>
-                            <img class="hidden sm:block absolute top-0 right-0 w-2/5 -mt-3 mr-2" alt="Rubick Tailwind HTML Admin Template" src="dist/images/woman-illustration.svg">
+                            <img class="hidden sm:block absolute top-0 right-0 w-2/5 -mt-3 mr-2" alt="Rubick Tailwind HTML Admin Template" src="/assets/images/woman-illustration.svg">
                         </div>
                     </div>
                     <!-- END: Ads 1 -->
@@ -1486,7 +1486,7 @@
                                 <input class="form-control" value="https://dashboard.in">
                                 <i data-feather="copy" class="absolute right-0 top-0 bottom-0 my-auto mr-4 w-4 h-4"></i> 
                             </div>
-                            <img class="hidden sm:block absolute top-0 right-0 w-1/2 mt-1 -mr-12" alt="Rubick Tailwind HTML Admin Template" src="dist/images/phone-illustration.svg">
+                            <img class="hidden sm:block absolute top-0 right-0 w-1/2 mt-1 -mr-12" alt="Rubick Tailwind HTML Admin Template" src="/assets/images/phone-illustration.svg">
                         </div>
                     </div>
                     <!-- END: Ads 2 -->
@@ -1517,13 +1517,13 @@
                                         <td class="w-40">
                                             <div class="flex">
                                                 <div class="w-10 h-10 image-fit zoom-in">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="dist/images/preview-15.jpg" title="Uploaded at 26 June 2022">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="/assets/images/preview-15.jpg" title="Uploaded at 26 June 2022">
                                                 </div>
                                                 <div class="w-10 h-10 image-fit zoom-in -ml-5">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="dist/images/preview-13.jpg" title="Uploaded at 23 April 2022">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="/assets/images/preview-13.jpg" title="Uploaded at 23 April 2022">
                                                 </div>
                                                 <div class="w-10 h-10 image-fit zoom-in -ml-5">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="dist/images/preview-14.jpg" title="Uploaded at 28 December 2020">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="/assets/images/preview-14.jpg" title="Uploaded at 28 December 2020">
                                                 </div>
                                             </div>
                                         </td>
@@ -1546,13 +1546,13 @@
                                         <td class="w-40">
                                             <div class="flex">
                                                 <div class="w-10 h-10 image-fit zoom-in">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="dist/images/preview-8.jpg" title="Uploaded at 30 October 2020">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="/assets/images/preview-8.jpg" title="Uploaded at 30 October 2020">
                                                 </div>
                                                 <div class="w-10 h-10 image-fit zoom-in -ml-5">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="dist/images/preview-11.jpg" title="Uploaded at 23 June 2021">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="/assets/images/preview-11.jpg" title="Uploaded at 23 June 2021">
                                                 </div>
                                                 <div class="w-10 h-10 image-fit zoom-in -ml-5">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="dist/images/preview-4.jpg" title="Uploaded at 24 July 2021">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="/assets/images/preview-4.jpg" title="Uploaded at 24 July 2021">
                                                 </div>
                                             </div>
                                         </td>
@@ -1575,13 +1575,13 @@
                                         <td class="w-40">
                                             <div class="flex">
                                                 <div class="w-10 h-10 image-fit zoom-in">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="dist/images/preview-5.jpg" title="Uploaded at 19 December 2020">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="/assets/images/preview-5.jpg" title="Uploaded at 19 December 2020">
                                                 </div>
                                                 <div class="w-10 h-10 image-fit zoom-in -ml-5">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="dist/images/preview-1.jpg" title="Uploaded at 9 March 2022">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="/assets/images/preview-1.jpg" title="Uploaded at 9 March 2022">
                                                 </div>
                                                 <div class="w-10 h-10 image-fit zoom-in -ml-5">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="dist/images/preview-10.jpg" title="Uploaded at 1 January 2021">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="/assets/images/preview-10.jpg" title="Uploaded at 1 January 2021">
                                                 </div>
                                             </div>
                                         </td>
@@ -1604,13 +1604,13 @@
                                         <td class="w-40">
                                             <div class="flex">
                                                 <div class="w-10 h-10 image-fit zoom-in">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="dist/images/preview-10.jpg" title="Uploaded at 28 January 2021">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="/assets/images/preview-10.jpg" title="Uploaded at 28 January 2021">
                                                 </div>
                                                 <div class="w-10 h-10 image-fit zoom-in -ml-5">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="dist/images/preview-2.jpg" title="Uploaded at 27 September 2021">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="/assets/images/preview-2.jpg" title="Uploaded at 27 September 2021">
                                                 </div>
                                                 <div class="w-10 h-10 image-fit zoom-in -ml-5">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="dist/images/preview-6.jpg" title="Uploaded at 7 September 2021">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="tooltip rounded-full" src="/assets/images/preview-6.jpg" title="Uploaded at 7 September 2021">
                                                 </div>
                                             </div>
                                         </td>
@@ -1722,7 +1722,7 @@
                                 <div class="intro-x relative flex items-center mb-3">
                                     <div class="report-timeline__image">
                                         <div class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden">
-                                            <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-5.jpg">
+                                            <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-5.jpg">
                                         </div>
                                     </div>
                                     <div class="box px-5 py-3 ml-4 flex-1 zoom-in">
@@ -1736,7 +1736,7 @@
                                 <div class="intro-x relative flex items-center mb-3">
                                     <div class="report-timeline__image">
                                         <div class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden">
-                                            <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-12.jpg">
+                                            <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-12.jpg">
                                         </div>
                                     </div>
                                     <div class="box px-5 py-3 ml-4 flex-1 zoom-in">
@@ -1748,13 +1748,13 @@
                                             <div class="mt-1">Added 3 new photos</div>
                                             <div class="flex mt-2">
                                                 <div class="tooltip w-8 h-8 image-fit mr-1 zoom-in" title="Sony Master Series A9G">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-md border border-white" src="dist/images/preview-12.jpg">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-md border border-white" src="/assets/images/preview-12.jpg">
                                                 </div>
                                                 <div class="tooltip w-8 h-8 image-fit mr-1 zoom-in" title="Oppo Find X2 Pro">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-md border border-white" src="dist/images/preview-3.jpg">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-md border border-white" src="/assets/images/preview-3.jpg">
                                                 </div>
                                                 <div class="tooltip w-8 h-8 image-fit mr-1 zoom-in" title="Oppo Find X2 Pro">
-                                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-md border border-white" src="dist/images/preview-15.jpg">
+                                                    <img alt="Rubick Tailwind HTML Admin Template" class="rounded-md border border-white" src="/assets/images/preview-15.jpg">
                                                 </div>
                                             </div>
                                         </div>
@@ -1764,7 +1764,7 @@
                                 <div class="intro-x relative flex items-center mb-3">
                                     <div class="report-timeline__image">
                                         <div class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden">
-                                            <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-15.jpg">
+                                            <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-15.jpg">
                                         </div>
                                     </div>
                                     <div class="box px-5 py-3 ml-4 flex-1 zoom-in">
@@ -1778,7 +1778,7 @@
                                 <div class="intro-x relative flex items-center mb-3">
                                     <div class="report-timeline__image">
                                         <div class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden">
-                                            <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-11.jpg">
+                                            <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-11.jpg">
                                         </div>
                                     </div>
                                     <div class="box px-5 py-3 ml-4 flex-1 zoom-in">
@@ -1803,7 +1803,7 @@
                                 <div class="intro-x">
                                     <div class="box px-5 py-3 mb-3 flex items-center zoom-in">
                                         <div class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden">
-                                            <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-6.jpg">
+                                            <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-6.jpg">
                                         </div>
                                         <div class="ml-4 mr-auto">
                                             <div class="font-medium">Christian Bale</div>
@@ -1815,7 +1815,7 @@
                                 <div class="intro-x">
                                     <div class="box px-5 py-3 mb-3 flex items-center zoom-in">
                                         <div class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden">
-                                            <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-7.jpg">
+                                            <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-7.jpg">
                                         </div>
                                         <div class="ml-4 mr-auto">
                                             <div class="font-medium">Russell Crowe</div>
@@ -1827,7 +1827,7 @@
                                 <div class="intro-x">
                                     <div class="box px-5 py-3 mb-3 flex items-center zoom-in">
                                         <div class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden">
-                                            <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-11.jpg">
+                                            <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-11.jpg">
                                         </div>
                                         <div class="ml-4 mr-auto">
                                             <div class="font-medium">Arnold Schwarzenegger</div>
@@ -1839,7 +1839,7 @@
                                 <div class="intro-x">
                                     <div class="box px-5 py-3 mb-3 flex items-center zoom-in">
                                         <div class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden">
-                                            <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-3.jpg">
+                                            <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-3.jpg">
                                         </div>
                                         <div class="ml-4 mr-auto">
                                             <div class="font-medium">Arnold Schwarzenegger</div>
@@ -1851,7 +1851,7 @@
                                 <div class="intro-x">
                                     <div class="box px-5 py-3 mb-3 flex items-center zoom-in">
                                         <div class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden">
-                                            <img alt="Rubick Tailwind HTML Admin Template" src="dist/images/profile-4.jpg">
+                                            <img alt="Rubick Tailwind HTML Admin Template" src="/assets/images/profile-4.jpg">
                                         </div>
                                         <div class="ml-4 mr-auto">
                                             <div class="font-medium">Johnny Depp</div>
