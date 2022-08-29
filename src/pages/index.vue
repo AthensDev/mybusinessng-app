@@ -12,80 +12,69 @@
                             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"> <i data-feather="x" class="w-4 h-4"></i> </button>
                         </div>
                     </div>
-                    <!-- END: Notification -->
+                    <!-- BEGIN: Notification -->
                     
-                   
-
                     <!-- BEGIN: General Report -->
-                    <div class="col-span-12 mt-8">
-                                <div class="intro-y flex items-center h-10">
-                                    <h2 class="text-lg font-medium truncate mr-5">
-                                        General Report
-                                    </h2>
-                                    <a href="" class="ml-auto flex items-center text-theme-1 dark:text-theme-10"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-refresh-ccw w-4 h-4 mr-3"><polyline points="1 4 1 10 7 10"></polyline><polyline points="23 20 23 14 17 14"></polyline><path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"></path></svg> Reload Data </a>
+                    <div class="col-span-12 lg:col-span-8 xl:col-span-6 mt-2">
+                        <div class="intro-y block sm:flex items-center h-10">
+                            <h2 class="text-lg font-medium truncate mr-5">
+                                General Report
+                            </h2>
+                            <select class="sm:ml-auto mt-3 sm:mt-0 sm:w-auto form-select box">
+                                <option value="daily">Daily</option>
+                                <option value="weekly">Weekly</option>
+                                <option value="monthly">Monthly</option>
+                                <option value="yearly">Yearly</option>
+                                <option value="custom-date">Custom Date</option>
+                            </select>
+                        </div>
+                        <div class="report-box-2 intro-y mt-12 sm:mt-5">
+                            <div class="box sm:flex">
+                                <div class="px-8 py-12 flex flex-col justify-center flex-1">
+                                    <i data-feather="shopping-bag" class="w-10 h-10 text-theme-12"></i> 
+                                    <div class="text-3xl text-center font-medium mt-12  "> <span class="absolute mx-auto text-2xl font-medium top-0 left-0 -ml-0.5"></span> 54.143 </div>
+                                    <div class="report-box-2__indicator bg-theme-9 tooltip cursor-pointer mx-auto" title="Unique views than last month"> Unique Views <i data-feather="chevron-up" class="w-4 h-4 ml-0.5"></i> </div>
+                                    <div class="mt-4 text-gray-600 text-center dark:text-gray-600">Views and interactions on this business profile</div>
+                                    <button class="btn btn-outline-secondary relative justify-start rounded-full mt-12">
+                                        Download Reports 
+                                        <span class="w-8 h-8 absolute flex justify-center items-center bg-theme-1 text-white rounded-full right-0 top-0 bottom-0 my-auto ml-auto mr-0.5"> <i data-feather="arrow-right" class="w-4 h-4"></i> </span>
+                                    </button>
                                 </div>
-                                <div class="grid grid-cols-12 gap-6 mt-5">
-                                    <div class="col-span-12 sm:col-span-6 xl:col-span-3 intro-y">
-                                        <div class="report-box zoom-in">
-                                            <div class="box p-5">
-                                                <div class="flex">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-shopping-cart report-box__icon text-theme-10"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg> 
-                                                    <div class="ml-auto">
-                                                        <div class="report-box__indicator bg-theme-9 tooltip cursor-pointer"> 33% <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up w-4 h-4 ml-0.5"><polyline points="18 15 12 9 6 15"></polyline></svg> </div>
-                                                    </div>
-                                                </div>
-                                                <div class="text-3xl font-medium leading-8 mt-6">4.710</div>
-                                                <div class="text-base text-gray-600 mt-1">Item Sales</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-span-12 sm:col-span-6 xl:col-span-3 intro-y">
-                                        <div class="report-box zoom-in">
-                                            <div class="box p-5">
-                                                <div class="flex">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-credit-card report-box__icon text-theme-11"><rect x="1" y="4" width="22" height="16" rx="2" ry="2"></rect><line x1="1" y1="10" x2="23" y2="10"></line></svg> 
-                                                    <div class="ml-auto">
-                                                        <div class="report-box__indicator bg-theme-6 tooltip cursor-pointer"> 2% <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down w-4 h-4 ml-0.5"><polyline points="6 9 12 15 18 9"></polyline></svg> </div>
-                                                    </div>
-                                                </div>
-                                                <div class="text-3xl font-medium leading-8 mt-6">3.721</div>
-                                                <div class="text-base text-gray-600 mt-1">New Orders</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-span-12 sm:col-span-6 xl:col-span-3 intro-y">
-                                        <div class="report-box zoom-in">
-                                            <div class="box p-5">
-                                                <div class="flex">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-monitor report-box__icon text-theme-12"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg> 
-                                                    <div class="ml-auto">
-                                                        <div class="report-box__indicator bg-theme-9 tooltip cursor-pointer"> 12% <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up w-4 h-4 ml-0.5"><polyline points="18 15 12 9 6 15"></polyline></svg> </div>
-                                                    </div>
-                                                </div>
-                                                <div class="text-3xl font-medium leading-8 mt-6">2.149</div>
-                                                <div class="text-base text-gray-600 mt-1">Total Products</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-span-12 sm:col-span-6 xl:col-span-3 intro-y">
-                                        <div class="report-box zoom-in">
-                                            <div class="box p-5">
-                                                <div class="flex">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user report-box__icon text-theme-9"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg> 
-                                                    <div class="ml-auto">
-                                                        <div class="report-box__indicator bg-theme-9 tooltip cursor-pointer"> 22% <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up w-4 h-4 ml-0.5"><polyline points="18 15 12 9 6 15"></polyline></svg> </div>
-                                                    </div>
-                                                </div>
-                                                <div class="text-3xl font-medium leading-8 mt-6">152.040</div>
-                                                <div class="text-base text-gray-600 mt-1">Unique Visitor</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                               
                             </div>
+                        </div>
+                    </div>
                     <!-- END: General Report -->
+                    <!-- BEGIN: Visitors -->
                    
-                  
+                    <!-- END: Visitors -->
+                    <!-- BEGIN: Users By Age -->
+                    <div class="col-span-12 sm:col-span-6 lg:col-span-6 xl:col-span-6 mt-2 lg:mt-6 xl:mt-2">
+                        <div class="intro-y flex items-center h-10">
+                            <h2 class="text-lg font-medium truncate mr-5">
+                                Stats
+                            </h2>
+                            <a href="" class="ml-auto text-theme-1 dark:text-theme-10 truncate">Show More</a> 
+                        </div>
+                        <div class="report-box-2 intro-y mt-5">
+                            <div class="box p-5">
+                                
+                                <div class="tab-content mt-6">
+                                    <div class="tab-pane active" id="active-users" role="tabpanel" aria-labelledby="active-users-tab">
+                                        <div class="relative">
+                                            <canvas class="mt-3" id="report-donut-chart" height="300"></canvas>
+                                            <div class="flex flex-col justify-center items-center absolute w-full h-full top-0 left-0">
+                                                <div class="text-2xl font-medium">2.501</div>
+                                                <div class="text-gray-600 dark:text-gray-600 mt-0.5">Trust Score</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END: Users By Age -->
                     <!-- BEGIN: Official Store -->
                     <div class="col-span-12 lg:col-span-8 mt-6">
                         <div class="intro-y block sm:flex items-center h-10">
