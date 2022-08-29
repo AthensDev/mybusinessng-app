@@ -11,11 +11,16 @@
 </template>
 
 <script setup>
-import { useMeta } from 'vue-meta'
-const siteName = 'REG'
-useMeta({
-    title: '',
-    htmlAttrs: { lang: 'en', amp: true },
-})
-
+    import { useMeta } from 'vue-meta'
+    const siteName = 'REG'
+    useMeta({
+        title: '',
+        htmlAttrs: { lang: 'en', amp: true },
+    })
 </script>
+
+<style>
+    body{
+       
+    }
+</style>

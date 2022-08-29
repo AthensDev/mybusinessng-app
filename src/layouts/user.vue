@@ -1,14 +1,12 @@
 <template>
 <!-- Main content Start -->
 <div class="page-wrapper">
-    <DashboardHeader></DashboardHeader>
-
+    <UserDashboardHeader></UserDashboardHeader>
     <!-- Main content area -->
     <router-view />
     
 </div> 
 <!-- Main content End -->
-
 
 <!-- Footer  -->
 <Footer></Footer>
